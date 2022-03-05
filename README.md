@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React Native, Node.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-Email : hossamg122@gmail.com
-Linked In : https://www.linkedin.com/in/hossam-gamal-9b610a184/
+- Email : hossamg122@gmail.com
+- Linked In : https://www.linkedin.com/in/hossam-gamal-9b610a184/
 
 <!---
 hossamg-122/hossamg-122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
